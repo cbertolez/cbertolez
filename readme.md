@@ -12,7 +12,7 @@
 - Análisis financiero y comercial
 
 ## 📌 Algunos de mis proyectos
-- [📊 Dashboard de Ventas](link-al-repo)
+- [📊 Dashboard de Ventas]((https://github.com/cbertolez/data))
  
 
 ## 📬 ¿Querés trabajar conmigo?
